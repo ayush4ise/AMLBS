@@ -13,12 +13,12 @@ This command will install all the necessary dependencies listed in the ```requir
 ### Project Structure
 Make sure the zip folder heart_disease_prediction is located in the same directory as the notebook assignment1. The folder structure should look like this:
 
-Asgn1_21IM30005/
-    ├── assignment1.ipynb
-    ├── heart_disease_prediction/
-    │   ├── ...
-    │   └── ...
-    └── requirements.txt
+Asgn1_21IM30005/  
+    ├── assignment1.ipynb  
+    ├── heart_disease_prediction/  
+    │   ├── ...  
+    │   └── ...  
+    └── requirements.txt  
 
 ### Running the Code
 Once you have installed the required libraries and organized your project structure as described above, you can run the code by opening the ```assignment1.ipynb``` notebook in a Jupyter Notebook environment or any Python IDE of your choice.
