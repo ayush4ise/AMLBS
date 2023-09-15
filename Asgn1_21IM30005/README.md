@@ -24,4 +24,4 @@ Asgn1_21IM30005/
 Once you have installed the required libraries and organized your project structure as described above, you can run the code by opening the ```assignment1.ipynb``` notebook in a Jupyter Notebook environment or any Python IDE of your choice.
 
 
-The zip folder ```heart_disease_prediction``` should be in the same directory as the notebook ```assignment1```
+The zip folder ```heart_disease_prediction.zip``` should be in the same directory as the notebook ```assignment1.ipynb```
