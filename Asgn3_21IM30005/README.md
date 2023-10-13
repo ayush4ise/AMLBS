@@ -13,7 +13,7 @@ This command will install all the necessary dependencies listed in the ```requir
 ### Project Structure
 Make sure the folder labeled ```data``` is located in the same directory as the notebook assignment3. The folder structure should look like this:
 
-Asgn2_21IM30005/  
+Asgn3_21IM30005/  
     ├── assignment3.ipynb  
     ├── data/  
     │   ├── housing.csv  
