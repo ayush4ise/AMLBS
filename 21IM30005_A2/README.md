@@ -1,4 +1,4 @@
-## CNN-Based Breast Cancer Classification and Evaluation 
+## CNN-Based Breast Cancer Classification and Evaluation README
 
 ### Introduction  
 This README provides instructions on how to run the code for the "CNN-Based Breast Cancer Classification and Evaluation" project. The code is written in Python v3.11.0, and it is recommended to use Python >=3.10 for compatibility.
